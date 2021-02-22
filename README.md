@@ -1,11 +1,6 @@
 # Hospital-Management
 A project developed using PL/SQL language, built on a database which centralizes the patients' personal data from a hospital.
 
-## Mandatory requirements based on the database:
-- Define a stored subroutine that uses a studied collection type. Call the subroutine.
-- cva
-
-
 ## Description of the database
 The purpose of this database is to centralize and therefore facilitate the process of stay and treatment
 of patients in the hospital, from the medical staff who care for them to the diagnoses
@@ -15,3 +10,13 @@ the same diagnosis may correspond to several patients. A doctor knows at least o
 diagnosis, and this diagnosis is treated with at least one drug. A medicine
 it can treat several diagnoses and is part of a class that contains several
 drugs.
+
+
+<img src="https://media.wired.com/photos/5926db217034dc5f91becd6b/master/w_582,c_limit/so-logo-s.jpg" width="250">
+
+## Mandatory requirements based on the database:
+- Define a stored subroutine that uses a collection type(varray, nested table, index-by table). Call the subroutine.
+- Define a stored subroutine that uses a cursor type. Call the subroutine.
+- Define a stored function that uses 3 of the defined tables. Treat all the exceptions that may arise. Call the subprogram so that all the cases treated are highlighted.
+- Define a stored procedure that uses 5 of the defined tables. Treat all the exceptions that may arise. Call the subprogram so that all the cases treated are highlighted.
+- Define a command-level DML trigger, a line-level DML trigger and a DDL trigger. Launch the triggers.
