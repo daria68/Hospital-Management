@@ -3,7 +3,7 @@ A project developed using PL/SQL language, built on a database which centralizes
 
 ## Description of the database
 The purpose of this database is to centralize and therefore facilitate the process of stay and treatment
-of patients in the hospital, from the medical staff who care for them to the diagnoses
+of patients in a hospital, from the medical staff who care for them to the diagnoses
 and prescribed treatments. There are wards in the hospital, each with several rooms. A
 the room has several patients. Each patient receives at least one diagnosis, and
 the same diagnosis may correspond to several patients. A doctor knows at least one
@@ -12,7 +12,7 @@ it can treat several diagnoses and is part of a class that contains several
 drugs.
 
 
-<img src="https://media.wired.com/photos/5926db217034dc5f91becd6b/master/w_582,c_limit/so-logo-s.jpg" width="250">
+<img src="https://media.wired.com/photos/5926db217034dc5f91becd6b/master/w_582,c_limit/so-logo-s.jpg" >
 
 ## Mandatory requirements based on the database:
 - Define a stored subroutine that uses a collection type(varray, nested table, index-by table). Call the subroutine.
