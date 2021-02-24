@@ -22,6 +22,7 @@ drugs.
 ## Mandatory requirements based on the database:
 - Define a stored subroutine that uses a collection type(varray, nested table, index-by table). Call the subroutine.
 - Define a stored subroutine that uses a cursor type. Call the subroutine.
-- Define a stored function that uses 3 of the defined tables. Treat all the exceptions that may arise. Call the subprogram so that all the cases treated are highlighted.
+- Define a stored function that uses 3 of the defined tables. Treat all the exceptions that may arise. Call the su.bprogram so that all the cases treated are highlighted.
 - Define a stored procedure that uses 5 of the defined tables. Treat all the exceptions that may arise. Call the subprogram so that all the cases treated are highlighted.
 - Define a command-level DML trigger, a line-level DML trigger and a DDL trigger. Launch the triggers.
+- Define a package that contains all the objects defined. 
