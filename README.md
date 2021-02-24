@@ -11,9 +11,13 @@ diagnosis, and this diagnosis is treated with at least one drug. A medicine
 it can treat several diagnoses and is part of a class that contains several
 drugs.
 
+## ERD
+<img src="https://github.com/daria68/Hospital-Management/blob/main/ConceptualDiagram.png" >
+
 ## Conceptual diagram
 
-<img src="file:///C:/Users/Daria/Downloads/Untitled%20(1).webp" >
+<img src="https://github.com/daria68/Hospital-Management/blob/main/ConceptualDiagram.png" >
+
 
 ## Mandatory requirements based on the database:
 - Define a stored subroutine that uses a collection type(varray, nested table, index-by table). Call the subroutine.
