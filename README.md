@@ -13,7 +13,7 @@ drugs.
 
 ## Conceptual diagram
 
-<img src="file:///C:/Users/Daria/Desktop/Untitled.png" >
+<img src="C:/Users/Daria/Desktop/Untitled.png" >
 
 ## Mandatory requirements based on the database:
 - Define a stored subroutine that uses a collection type(varray, nested table, index-by table). Call the subroutine.
