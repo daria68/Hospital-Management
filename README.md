@@ -1,5 +1,5 @@
 # Hospital-Management
-A project developed using PL/SQL language, built on a database which centralizes the patients' personal data from a hospital.
+A project developed using PL/SQL, built on a database which centralizes the medical history of all the patients from a hospital.
 
 ## Description of the database
 The purpose of this database is to centralize and therefore facilitate the process of stay and treatment
@@ -13,7 +13,7 @@ drugs.
 
 ## Conceptual diagram
 
-<img src="https://ibb.co/qWgVtv1" >
+<img src="file:///C:/Users/Daria/Desktop/Untitled.png" >
 
 ## Mandatory requirements based on the database:
 - Define a stored subroutine that uses a collection type(varray, nested table, index-by table). Call the subroutine.
