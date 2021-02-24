@@ -12,7 +12,7 @@ it can treat several diagnoses and is part of a class that contains several
 drugs.
 
 ## ERD
-<img src="https://github.com/daria68/Hospital-Management/blob/main/ConceptualDiagram.png" >
+<img src="https://github.com/daria68/Hospital-Management/blob/main/Entity_RelationshipDiagram.png" >
 
 ## Conceptual diagram
 
